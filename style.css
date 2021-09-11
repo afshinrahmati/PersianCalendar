@@ -1,0 +1,9 @@
+body{
+    background: #00e1ff;
+}
+input#persian_data {
+    border: navajowhite;
+}
+ input:focus {
+    outline: none;
+  }
